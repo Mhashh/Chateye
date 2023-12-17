@@ -1,0 +1,5 @@
+17/12/2023
+
+-Get chat stream from twitch via twitch irc and display in server console.
+-add sentiment analysis ml model to process chat
+-Make a twitch channel selection option

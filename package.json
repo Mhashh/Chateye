@@ -1,0 +1,11 @@
+{
+  "name": "chateye",
+  "version": "1.0.0",
+  "description": "a chat server to analyse chat sentiment, built for twitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
